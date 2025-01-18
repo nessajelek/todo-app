@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .bgImageMobileLight {
+  background-image: url('/src/images/bg-mobile-light.jpg');
+}
+
+.bgImageMobileDark {
+  background-image: url('/src/images/bg-mobile-dark.jpg');
+}
+
+.bgImageDestopLight {
+  background-image: url('/src/images/bg-desktop-light.jpg');
+}
+
+.bgImageDesktopDark {
+  background-image: url('/src/images/bg-desktop-dark.jpg');
+} */
